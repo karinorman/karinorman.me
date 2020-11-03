@@ -2,18 +2,18 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+#slides: example
+summary: My work leveraging NEON for biodiversity research. 
 tags:
-- Deep Learning
-title: Internal Project
+- 
+title: NEON for Biodiversity Research
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -1,26 +1,36 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-education:
-  courses:
-  - course: PhD in Environmental Science Policy and Management
-    institution: University of California, Berkeley
-    year: 2021
-  - course: BSc in Conservation and Restoration Ecology
-    institution: Utah State University
-    year: 2016
-  - course: BSc in Statistics
-    institution: Utah State University
-    year: 2016
-email: "kari.norman@berkeley.edu"
-highlight_name: false
-interests:
-- Computational Ecology
-- Macroecology
-- Community Ecology
+title: Kari Norman
+
+superuser: true
+
+#bio: My research interests include quantitative ecology, community ecology, and conservation.
+
+role: PhD Candidate
+
 organizations:
 - name: University of California, Berkeley
-  url: https://www.stanford.edu/
-role: PhD Candidate
+  url: https://ourenvironment.berkeley.edu/
+# 
+# interests:
+# - Computational Ecology
+# - Macroecology
+# - Community Ecology
+# 
+# education:
+#   courses:
+#   - course: PhD in Environmental Science Policy and Management
+#     institution: University of California, Berkeley
+#     year: 2021
+#   - course: BSc in Conservation and Restoration Ecology
+#     institution: Utah State University
+#     year: 2016
+#   - course: BSc in Statistics
+#     institution: Utah State University
+#     year: 2016
+
+highlight_name: false
+
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -34,12 +44,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/karinorman
-superuser: true
-title: Kari Norman
-user_groups:
-- Principal Investigators
 ---
 
-Insert Description here.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}cv{{< /staticref >}}.
+I am a Quantitative Ecologists interested in the theory and methods underpinning biodiversity science. I synthesize existing ecological datasets to better understand broad-scale impacts of anthropogenic change through time.
